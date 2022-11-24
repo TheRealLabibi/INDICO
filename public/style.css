@@ -238,6 +238,7 @@ a{
 /* --------------- */
 .fourth{
     height: 85vh;
+    /* background-color: rgb(196, 194, 194); */
 }
 .fourth-grid{
     display: flex;
@@ -246,8 +247,9 @@ a{
     width: 800px;
     /* border: 1px solid sandybrown; */
 }
-.g-col-6 img{
+.bot img{
     height: 500px;
+    margin-top: 50px;
     
 
 }
@@ -307,8 +309,9 @@ a{
     background-color:#00182c;
     height:603px;
     color: grey;
-    border-radius: 20px;
+    border-radius: 30px;
     margin-right: 30px;
+    margin-top: 30px;
     /* width: 700px; */
 }
 .fifth img{
@@ -323,4 +326,8 @@ a{
 .fifth-form form{
     margin-right: 30px;
     margin-left: 30px;
+}
+.sixth{
+    height: 100vh;
+    
 }
